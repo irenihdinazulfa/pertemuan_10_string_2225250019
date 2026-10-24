@@ -1,0 +1,20 @@
+# Python / Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (jika ada)
+venv/
+env/
+.venv/
+
+# Visual Studio Code
+.vscode/
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
+
+# Dokumen Word / Temporary Office Files
+~$*.docx
+*.tmp
